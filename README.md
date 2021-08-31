@@ -1,2 +1,2 @@
 # OrderingSystem
-Simple Ordering System using Java AWT
+Simple Milktea Ordering System using Java AWT
